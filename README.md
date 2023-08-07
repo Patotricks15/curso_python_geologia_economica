@@ -1,1 +1,1 @@
-Mini-curso de Python básico para geologia econômica
+# Mini-curso de Python básico para geologia econômica
