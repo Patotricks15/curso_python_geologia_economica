@@ -18,3 +18,9 @@
 * Gravação da aula: https://drive.google.com/file/d/1N32OTLAtn5IQ8aZM9onCd1PZQDdVHbO2/view?usp=drive_link
 * Lista de exercícios: https://wiki.python.org.br/EstruturaDeDecisao
 * Matplotlib: https://matplotlib.org/stable/index.html (dêem uma olhada no learning resources)
+
+## Aula 4
+
+* Material: https://colab.research.google.com/drive/1cAKYD7er_s2ParvOgpDOL-fosMKvbp6B#scrollTo=HlcezFRGKCDn
+* Gravação da aula: (em breve)
+* Lista de exercícios: https://wiki.python.org.br/EstruturaDeRepeticao (4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
