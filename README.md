@@ -24,3 +24,9 @@
 * Material: https://colab.research.google.com/drive/1cAKYD7er_s2ParvOgpDOL-fosMKvbp6B#scrollTo=HlcezFRGKCDn
 * Gravação da aula: https://drive.google.com/file/d/1pZC4Fs4tkuponi7exLGNwPoH9BZqkqM5/view?usp=sharing
 * Lista de exercícios: https://wiki.python.org.br/EstruturaDeRepeticao (4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
+
+  ## Aula 5 - Funções
+
+  * Material: https://colab.research.google.com/drive/1VXUqnqtC443l0KMOMJwymBewNgOZwsxx
+  * Gravação da aula: (em breve)
+  * Lista de exercícios: https://wiki.python.org.br/ExerciciosFuncoes
