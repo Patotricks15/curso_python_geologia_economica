@@ -25,8 +25,20 @@
 * Gravação da aula: https://drive.google.com/file/d/1pZC4Fs4tkuponi7exLGNwPoH9BZqkqM5/view?usp=sharing
 * Lista de exercícios: https://wiki.python.org.br/EstruturaDeRepeticao (4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15)
 
-  ## Aula 5 - Funções
+## Aula 5 - Funções
 
-  * Material: https://colab.research.google.com/drive/1VXUqnqtC443l0KMOMJwymBewNgOZwsxx
-  * Gravação da aula: (em breve)
-  * Lista de exercícios: https://wiki.python.org.br/ExerciciosFuncoes
+* Material: https://colab.research.google.com/drive/1VXUqnqtC443l0KMOMJwymBewNgOZwsxx
+* Gravação da aula: (em breve)
+* Lista de exercícios: https://wiki.python.org.br/ExerciciosFuncoes
+
+## Aula 6 - Introdução à Análise de Dados
+
+* Material: https://colab.research.google.com/drive/1POS6eXnLfhsZ6M3zKEAlvZNzTpujr8kw#scrollTo=Q9vxu884Ix7s
+* Gravação da aula: (em breve)
+* Extra: https://www.geeksforgeeks.org/data-analysis-with-python/
+
+## Aula 7 - Criando geometrias e mapas
+
+* Material: https://colab.research.google.com/drive/1xfXoxlB1qrR6258CmRPXv3uRiF4mfaDw#scrollTo=IY2-8ck8a7Tn
+* Gravação da aula: (em breve)
+* Extra: [Documentação do Geopandas](https://geopandas.org/en/stable/) + [Documentação do Shapely](https://shapely.readthedocs.io/en/stable/manual.html)
