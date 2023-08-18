@@ -46,4 +46,5 @@
 ## Aula 8 - Análise de dados na prática
 
 * Material: https://colab.research.google.com/drive/1xrZEYPlS7dt58nOvGvUSSKSjy-sCzoPB#scrollTo=53QeSu_s6T0U
+* Dado: https://github.com/Patotricks15/curso_python_geologia_economica/blob/main/dado_aula_8.xlsx (no lado direito, abaixo de "History" tem um botão de download)
 * Gravação da aula: (em breve)
