@@ -42,3 +42,8 @@
 * Material: https://colab.research.google.com/drive/1xfXoxlB1qrR6258CmRPXv3uRiF4mfaDw#scrollTo=IY2-8ck8a7Tn
 * Gravação da aula: (em breve)
 * Extra: [Documentação do Geopandas](https://geopandas.org/en/stable/) + [Documentação do Shapely](https://shapely.readthedocs.io/en/stable/manual.html)
+
+## Aula 8 - Análise de dados na prática
+
+* Material: https://colab.research.google.com/drive/1xrZEYPlS7dt58nOvGvUSSKSjy-sCzoPB#scrollTo=53QeSu_s6T0U
+* Gravação da aula: (em breve)
