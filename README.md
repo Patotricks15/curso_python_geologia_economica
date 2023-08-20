@@ -40,7 +40,7 @@
 ## Aula 7 - Criando geometrias e mapas
 
 * Material: https://colab.research.google.com/drive/1xfXoxlB1qrR6258CmRPXv3uRiF4mfaDw#scrollTo=IY2-8ck8a7Tn
-* Gravação da aula: (em breve)
+* Gravação da aula: https://drive.google.com/drive/u/0/folders/1YjZR1WfOhr4zT3mipxn_2jm-trels67I
 * Extra: [Documentação do Geopandas](https://geopandas.org/en/stable/) + [Documentação do Shapely](https://shapely.readthedocs.io/en/stable/manual.html)
 
 ## Aula 8 - Análise de dados na prática
